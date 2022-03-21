@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alxm8 
-- 👀 I’m interested in ...computing cloud infrastructure as code!
-- 🌱 I’m currently working with ... powershell, python, ansible & Terraform
+- 👀 I’m interested in ...infrastructure as code with Azure...and other cloud providers
+- 🌱 I’m currently working with ...powershell, python, ansible & terraform
 
 
 <!---
